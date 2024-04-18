@@ -1,0 +1,11 @@
+.box1 {
+    width: 1249px;
+    height: 376px;
+    background-color:#22F4DA ;
+    border-radius: 30px;
+    margin: 73px auto
+}
+.name {
+    text-align: center;
+    padding-top: 29px;
+}
